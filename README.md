@@ -1,9 +1,9 @@
 👋 Hey there, I'm Karanveer SIngh Kalsi!
 
-🎓 Computer Science Enthusiast | Full Stack Developer | AI Enthusiast
+🎓 Full Stack Developer | AI Enthusiast | DevOps Engineer
 
 🏫 Education:
-- 3rd Year B.Tech in Information Technology | Manipal Institute of Technology | CGPA: 8.93
+- Currently a 3RD Year B.Tech Student in Information Technology | Manipal Institute of Technology | CGPA: 8.93
 
 💼 Experience:
 - Full Stack & AI Intern | Servify | Enhancing Customer Happiness Index through DevOps
